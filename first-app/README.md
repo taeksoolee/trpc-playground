@@ -2,4 +2,4 @@
 
 ## runtime env
 - server : ts-node
-- client : vercel
+- client : parcel
